@@ -1,6 +1,7 @@
 {
     "name": "wildphp/module-commandparser",
     "description": "Provides an interface for modules to listen for incoming commands.",
+    "version": "2.0.0-alpha",
     "authors": [
         {
             "name": "Yoshi2889",
