@@ -10,6 +10,11 @@
     "require": {
         "wildphp/wild-irc-bot": "^2.0@alpha"
     },
+    "autoload": {
+        "psr-4": {
+            "WildPHP\\Modules\\CommandParser\\": "src"
+        }
+    },
     "minimum-stability": "alpha",
     "prefer-stable": true
 }

@@ -18,7 +18,7 @@
 	along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-namespace WildPHP\Modules;
+namespace WildPHP\Modules\CommandParser;
 
 use WildPHP\BaseModule;
 
