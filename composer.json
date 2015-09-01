@@ -1,0 +1,11 @@
+{
+    "name": "wildphp/module-commandparser",
+    "description": "Provides an interface for modules to listen for incoming commands.",
+    "authors": [
+        {
+            "name": "Yoshi2889",
+            "email": "rick.2889@gmail.com"
+        }
+    ],
+    "require": {}
+}
