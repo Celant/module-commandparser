@@ -17,7 +17,7 @@ To install this module, we will use `composer`:
 
 That will install all required files for the module. In order to activate the module, add the following line to your `config.neon`, section `modules`:
 
-	- WildPHP/Modules/CommandParser/CommandParser
+	- WildPHP\Modules\CommandParser\CommandParser
 
 Make sure to include a tab character in front. The bot will run the module the next time it is started.
 
